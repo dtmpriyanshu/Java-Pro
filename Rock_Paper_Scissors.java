@@ -1,9 +1,8 @@
-package javaclass;
 import java.util.Random;
 import java.util.Scanner;
 public class Rock_Paper_Scissors {
 
-    public static void main() {
+    public static void main(String[] args) {
         System.out.println("Lets Play Rock Paper Scissor's");
         System.out.println("In this game: ");
         System.out.println("Press 0 -> for Rock");
